@@ -1,5 +1,5 @@
 {
-  "name": "test-images",
+  "name": "react-handling-image-with-fallback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
